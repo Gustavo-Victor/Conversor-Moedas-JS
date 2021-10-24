@@ -1,0 +1,21 @@
+
+//se quero falar com máquina tenho que falar com mesma lingua que eles; linguagem de programação é linguagem que computador entende e executa
+
+//JavaScript nasceu há algumas décadas atrás
+            
+//antes a internet era muito lenta - o site demorava muito pra carregar e os sites eram só textos e caixas
+
+            
+//javascript foi inventado pra deixar a internet e sites mais dinamicos e interativos 
+
+            
+//com JavaScript além de ser possível vc construir sites (Puro, Angular e React)  é possível também construir aplicativos para dispositivos móveis com (React Native) -  e também é possível construir aplicativos para desktop com () e até mesmo em servidores o JavaScript está presente (NodeJS)
+
+            
+//Várias empresas grandes usam em aplicações tanto web como mobile, desktop e em servidores ex: Nasa, Facebook, Instagram, Google, Youtube, Netflix, Discord, etc.
+
+            
+//todos os navegadores hoje em dia possuem JavaScript e todos os computadores é possível rodar js
+
+                        
+//variáveis - espaço na memória que guarda dados que serão usados no decorrer do programa. O presente nesses espaços (variáveis) pode ser alterado durante o programa; 
